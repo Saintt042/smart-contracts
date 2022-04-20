@@ -1,0 +1,28 @@
+{
+  "name": "solidity-contracts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "solc": "^0.4.25",
+    "truffle": "^4.1.14",
+    "truffle-hdwallet-provider-privkey": "^0.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saintt042.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Saintt042"
+  },
+  "homepage": "https://github.com/Saintt042"
+}
